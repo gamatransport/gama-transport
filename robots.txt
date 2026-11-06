@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rentalmobilgama.netlify.app/sitemap.xml
